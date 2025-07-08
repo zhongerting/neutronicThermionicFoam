@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/MomentumTransportModels/compressible/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/MomentumTransportModels/momentumTransportModels/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/ODE/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/OSspecific/POSIX/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/OpenFOAM/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/ThermophysicalTransportModels/fluidReactionThermo/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/ThermophysicalTransportModels/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/combustionModels/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/finiteVolume/cfdTools",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/finiteVolume/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/meshTools/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/regionModels/regionModel/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/sampling/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/thermophysicalModels/basic/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/thermophysicalModels/chemistryModel/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/thermophysicalModels/reactionThermo/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/thermophysicalModels/solidThermo/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/thermophysicalModels/specie/lnInclude",
+        "/home/newuser/OpenFOAM/OpenFOAM-9/src/transportModels/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/applications/solvers/neutronicThermionicFoam/TFE",
+        "/home/newuser/OpenFOAM/newuser-9/applications/solvers/neutronicThermionicFoam/fluid",
+        "/home/newuser/OpenFOAM/newuser-9/applications/solvers/neutronicThermionicFoam/include",
+        "/home/newuser/OpenFOAM/newuser-9/applications/solvers/neutronicThermionicFoam/neutron",
+        "/home/newuser/OpenFOAM/newuser-9/applications/solvers/neutronicThermionicFoam/solid",
+        "/home/newuser/OpenFOAM/newuser-9/src/TFEsingle/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/circuitTECs/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/extractSingleIntFromString/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/newtonIter/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/processVectors/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/singleThermionicEnergyConversion/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/sort_with_correspondence/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/thermionicCalc/lnInclude",
+        "/home/newuser/OpenFOAM/newuser-9/src/thermionicEmission/lnInclude",
+        "./**"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "gnu++14",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
